@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Esport News</string>
+    <string name="nameEditText">NAME :</string>
+    <string name="sayhelloButtonView">Login</string>
+    <string name="sayhelloTextView">Halo %1$s</string>
+</resources>
